@@ -1,0 +1,29 @@
+//  i used div create the "learn more" link in 3 sections and i didn't use the button element,
+@import "./font-family";
+
+.link {
+  border: 0px solid white;
+  border-radius: 30px;
+  background: white;
+}
+.link {
+  height: 40px;
+  width: 110px;
+  margin-left: 2rem;
+  padding-top: 10px;
+}
+a {
+  text-decoration: none;
+  font-family: $secondary-font-fmaily;
+  font-size: 0.885rem;
+}
+.link-1 {
+  color: $Brightorange;
+}
+
+.link-2 {
+  color: $Darkcyan;
+}
+.link-3 {
+  color: $Verydarkcyan;
+}
